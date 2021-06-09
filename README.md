@@ -1,3 +1,7 @@
 # Welcome to the MCT Portal wiki!
 
-This is the semi-internal location for information about how the Portal, and technical information about all the different systems, flowcharts, how to troubleshoot, etc. As such, it is a vital place for MCT students and staff.
+This is the semi-internal location for information about how the Portal, technical information about the different systems, how to troubleshoot and use, etc. As such, it is a vital place for current and future MCT students and staff.
+
+Head on over to:
+
+to proceed.
