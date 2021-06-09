@@ -1,4 +1,4 @@
-# Welcome to the MCT Portal wiki!
+# Welcome to the [MCT Portal Wiki](https://github.com/MCT-master/wiki/wiki)!
 
 This is the semi-internal location for information about how the Portal, technical information about the different systems, how to troubleshoot and use, etc. As such, it is a vital place for current and future MCT students and staff. Head on over to:
 
