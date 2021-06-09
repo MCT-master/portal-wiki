@@ -4,6 +4,6 @@ This is the semi-internal location for information about how the Portal, technic
 
 Head on over to:
 <p align="center">
- <img src="navbar.jpg" width=100>
+ <img src="navbar.jpg">
 </p>
 to proceed.
